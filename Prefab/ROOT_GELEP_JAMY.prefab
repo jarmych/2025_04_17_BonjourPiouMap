@@ -1324,37 +1324,8 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 355282605414328566, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7977843175974064882}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3055129311705709925, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 7622754645230157845}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
---- !u!1 &297016092939095615 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3055129311705709925, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
-  m_PrefabInstance: {fileID: 3349210807571297114}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7622754645230157845
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 297016092939095615}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea42814c4cb38f643b4558304515c7e1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_whatToRotate: {fileID: 898609261974671965}
-  m_globalSpeedInAngle: 360
-  m_rotateAxis: {x: 0, y: 1, z: 0}
-  m_space: 1
---- !u!4 &898609261974671965 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2450601552601145607, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
-  m_PrefabInstance: {fileID: 3349210807571297114}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3068357457290402732 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 355282605414328566, guid: d50ac44cf3853c947a6de2568d6182e8, type: 3}
