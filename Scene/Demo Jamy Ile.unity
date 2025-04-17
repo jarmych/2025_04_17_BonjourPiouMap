@@ -1132,8 +1132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_whatToRotate: {fileID: 273408848}
-  m_globalSpeedInAngle: 10
-  m_rotateAxis: {x: 10, y: 1, z: 0}
+  m_globalSpeedInAngle: 300
+  m_rotateAxis: {x: 0, y: 0, z: 1}
   m_space: 1
 --- !u!43 &280138511
 Mesh:
@@ -9589,6 +9589,10 @@ PrefabInstance:
     - target: {fileID: 1895581797357611212, guid: 8830eed2af2e8574abd07c1ec07f5374, type: 3}
       propertyPath: m_VersionIndex
       value: 2109
+      objectReference: {fileID: 0}
+    - target: {fileID: 1920045658405328791, guid: 8830eed2af2e8574abd07c1ec07f5374, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1929063715201370839, guid: 8830eed2af2e8574abd07c1ec07f5374, type: 3}
       propertyPath: m_Mesh
